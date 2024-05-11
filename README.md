@@ -17,6 +17,7 @@ A Locadora de Veículos é uma aplicação web para gerenciamento de uma frota d
 
 Para executar o projeto, é necessário ter o Docker e o Docker Compose instalados na sua máquina.
 
+Executar o Docker
 1. Clone o repositório:
 
 ```bash
@@ -25,7 +26,7 @@ git clone https://github.com/RodolfoBrandaoOficial/LocadoraVeiculos.git
 ```
 Navegue até o diretório do projeto:
 ```bash
-cd LocadoraVeiculos
+cd LocadoraVeiculos/docker
 ```
 Execute o comando Docker Compose para iniciar os contêineres:
 
