@@ -32,6 +32,16 @@ Execute o comando Docker Compose para iniciar os contêineres:
 ```bash
 docker-compose up --build
 ```
+# Se caso precisar subir o sql manual no docker 
+descubra o id do docker e cole ele e execute o comando
+```bash
+docker ps
+```
+```bash
+docker exec -i SEUIDAQUIDODOCKER psql -U postgres -d cursodatabase < dump.sql
+```
+
+
 ##🔒 Autenticação com JWT
 A autenticação na Locadora de Veículos é feita utilizando JWT (JSON Web Token). Os tokens JWT são usados para autenticar usuários e proteger rotas da API. Consulte a documentação da API para mais detalhes sobre como autenticar e acessar os endpoints protegidos.
 
