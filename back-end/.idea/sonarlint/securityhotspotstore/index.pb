@@ -71,3 +71,9 @@ Tsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/config/TokenService
 Vsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/SearchCtl.java,5/6/560047ad57dab8506fa093b1af2e190278c41290
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+†
+Vsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/service/SearchService.java,e/2/e2a38bafe912b6d8825e0200289941e3fac732c5
+•
+esrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/AuthenticationController.java,1/b/1b34cd6d9eac4e24f0b75aa07d7ae0dabb47e5c9
+š
+jsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/auth/AuthenticationController.java,4/5/4587c75e0ff168fe3aa45bbcb6b694c48bf742d9

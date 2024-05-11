@@ -17,7 +17,7 @@ services:
   springboot:
     image: openjdk:latest  # Imagem base para o Spring Boot
     ports:
-      - "8080:8080"  # Mapeamento da porta 8080 do contêiner Spring Boot para a máquina host
+      - "8081:8080"  # Mapeamento da porta 8080 do contêiner Spring Boot para a máquina host
     volumes:
       - ./locadoraveiculosjava.jar:/app/locadoraveiculosjava.jar  # Mapeamento do JAR Spring Boot para dentro do contêiner
     command: ["java", "-jar", "/app/locadoraveiculosjava.jar"]

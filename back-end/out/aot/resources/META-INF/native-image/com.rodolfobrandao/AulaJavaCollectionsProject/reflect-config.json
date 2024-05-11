@@ -219,7 +219,7 @@
     ]
   },
   {
-    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.AuthenticationController",
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.auth.AuthenticationController",
     "queryAllPublicMethods": true,
     "queryAllDeclaredMethods": true,
     "fields": [
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.SearchCtl",
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.tools.SearchCtl",
     "queryAllPublicMethods": true,
     "queryAllDeclaredMethods": true,
     "fields": [
@@ -1690,7 +1690,7 @@
     ]
   },
   {
-    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.SearchService",
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.tools.SearchService",
     "queryAllPublicMethods": true,
     "queryAllDeclaredMethods": true,
     "allPublicMethods": true,
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.SearchService$$SpringCGLIB$$0",
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.tools.SearchService$$SpringCGLIB$$0",
     "allDeclaredFields": true,
     "allDeclaredConstructors": true,
     "allDeclaredMethods": true
@@ -8317,7 +8317,7 @@
       {
         "name": "setDefaultProperties",
         "parameterTypes": [
-          "java.util.Properties"
+          "java.util.Map"
         ]
       },
       {
