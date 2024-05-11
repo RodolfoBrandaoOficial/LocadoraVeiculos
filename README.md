@@ -10,6 +10,7 @@ A Locadora de Veículos é uma aplicação web para gerenciamento de uma frota d
 
 - Spring Boot
 - PostgreSQL
+- [Postman Doc](https://documenter.getpostman.com/view/17799534/2sA3JM8Me8)
 - Docker
 
 ## ▶️ Executando o Projeto
