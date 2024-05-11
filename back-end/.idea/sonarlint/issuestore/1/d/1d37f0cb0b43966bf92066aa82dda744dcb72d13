@@ -1,0 +1,7 @@
+
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ8Ψ†Φόρ1
+t	java:S116"XRename this field "id_fabricante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π‘Άω8ά†Φόρ1
+i	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έ΅μ{8ΰ†Φόρ1
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ8α†Φόρ1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(Έ…Όό8γ†Φόρ1

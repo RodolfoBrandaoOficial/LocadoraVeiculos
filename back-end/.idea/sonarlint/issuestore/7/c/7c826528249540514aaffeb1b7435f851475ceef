@@ -1,0 +1,11 @@
+
+O
+java:S1854":Remove this useless assignment to local variable "treino".(ÖÑÀc
+A
+java:S1172"+Remove this unused method parameter "args".(Î½ºð
+@
+java:S1481"+Remove this unused "treino" local variable.(ÖÑÀc
+V	java:S125"<This block of commented-out lines of code should be removed.(”¨åÜÿÿÿÿÿ
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Å„â
+E	java:S106"+Replace this use of System.out by a logger.(Þ»ÈÖùÿÿÿÿ
