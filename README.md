@@ -22,23 +22,24 @@ Para executar o projeto, é necessário ter o Docker e o Docker Compose instalad
 ```bash
 git clone https://github.com/RodolfoBrandaoOficial/LocadoraVeiculos.git
 Navegue até o diretório do projeto:
-bash
+```
 
+```bash
 cd LocadoraVeiculos
+```
 Execute o comando Docker Compose para iniciar os contêineres:
-bash
 
+```bash
 docker-compose up --build
-📄 Documentação da API
-A documentação da API pode ser encontrada no Postman. Consulte o link abaixo para mais detalhes:
+```
+##🔒 Autenticação com JWT
+A autenticação na Locadora de Veículos é feita utilizando JWT (JSON Web Token). Os tokens JWT são usados para autenticar usuários e proteger rotas da API. Consulte a documentação da API para mais detalhes sobre como autenticar e acessar os endpoints protegidos.
 
-Documentação da API no Postman
+##🙏 Agradecimentos
+Gostaríamos de agradecer à VR Software pelo Curso e por sua contribuição e interesse em nosso projeto. Sua mensagem foi muito apreciada!
 
-🙏 Agradecimentos
-Gostaríamos de agradecer ao a VR Software pelo Curso e por sua contribuição e interesse em nosso projeto. Sua mensagem foi muito apreciada!
-
-🤝 Contribuição
+##🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-📝 Licença
+##📝 Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
