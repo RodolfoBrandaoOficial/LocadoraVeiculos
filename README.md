@@ -21,9 +21,9 @@ Para executar o projeto, é necessário ter o Docker e o Docker Compose instalad
 
 ```bash
 git clone https://github.com/RodolfoBrandaoOficial/LocadoraVeiculos.git
-Navegue até o diretório do projeto:
-```
 
+```
+Navegue até o diretório do projeto:
 ```bash
 cd LocadoraVeiculos
 ```
