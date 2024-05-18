@@ -157,15 +157,21 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
   }
 
   Future<String> fetchModelData(int modelId, String token) async {
+    print(baseUrlApi);
     try {
+      final Uri uri = Uri.parse(baseUrlApi + 'modelo/$modelId');
+      print('URL da requisição: $uri');
+
       final response = await http.get(
-        Uri.parse(baseUrlApi + 'modelo/$modelId'),
+        uri,
         headers: {
           'Authorization': 'Bearer $token',
         },
       );
+
       print('Response status code: ${response.statusCode}');
       print('Response body: ${response.body}');
+
       if (response.statusCode == 200) {
         final Map<String, dynamic> data = jsonDecode(response.body);
         String? imgUrl = data['imgbase64']; // Alteração aqui para aceitar nulo
@@ -179,11 +185,11 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
         throw Exception('Erro ao buscar os dados do modelo');
       }
     } catch (e) {
-      print('Erro na requisição: $e');
+      print('Erro ao buscar os dados do modelo: $e');
       throw Exception('Erro ao buscar os dados do modelo: $e');
     }
-  }
 
+  }
 
 
 
@@ -204,8 +210,8 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
 
     if (response.statusCode == 200) {
       try {
-        final Map<String, dynamic> jsonResponse = jsonDecode(response.body);
-        List<dynamic> registros = jsonResponse['registros'];
+        final Map<String, dynamic> JsonResponse = jsonDecode(response.body);
+        List<dynamic> registros = JsonResponse['registros'];
         return registros.map((json) => Veiculo.fromJson(json)).toList();
       } catch (e) {
         throw Exception('Erro ao decodificar JSON: $e');
@@ -215,9 +221,9 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
         Navigator.pushNamed(context, '/login');
       }
       throw Exception('Falha ao carregar veículos: ${response.statusCode}');
+
     }
   }
-
 
   List<Veiculo> _filterVeiculos(List<Veiculo> veiculos, String searchText) {
     return veiculos.where((veiculo) {

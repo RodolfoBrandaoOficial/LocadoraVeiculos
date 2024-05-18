@@ -24,6 +24,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/v1/municipio")
+@CrossOrigin(origins = "*")
 public class MunicipioCtl {
 
     private final MunicipioService municipioService;

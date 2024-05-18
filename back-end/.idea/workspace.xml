@@ -8,18 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fb39b-f99a-4dc3-a418-21a97e9f5ed8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../front-end/macos/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10cb4117eadbc2e3c75da005a2e613d4c0687c71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/0/10cb4117eadbc2e3c75da005a2e613d4c0687c71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/lib/router/instrucoes_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/lib/router/instrucoes_api.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClienteCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClienteCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClientetelefoneCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClientetelefoneCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ContatoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ContatoCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/EstadoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/EstadoCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/LocacaoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/LocacaoCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ModeloCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ModeloCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/MunicipioCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/MunicipioCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoraCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoraCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoratelefoneCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoratelefoneCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_veiculos_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_veiculos_page.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,66 +126,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.AulaJavaCollectionsProjectApplication.executor": "Run",
-    "Application.ImageSearchAndConvertToBase64.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ModelAndDaoGenerator.executor": "Run",
-    "Application.ModelAndRepositoryGenerator.executor": "Run",
-    "Application.ModelGenerator.executor": "Run",
-    "Application.MvcJpaGerator.executor": "Run",
-    "Application.com.rodolfobrandao.aulajavacollectionsproject.models.ModelGenerator.executor": "Run",
-    "Gradle.AulaJavaCollectionsProject [:Main.main()].executor": "Run",
-    "Gradle.AulaJavaCollectionsProject [bootRun].executor": "Run",
-    "Gradle.AulaJavaCollectionsProject [build].executor": "Run",
-    "Gradle.AulaJavaCollectionsProject [clean].executor": "Run",
-    "Gradle.Build back-end.executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.back-end [bootJar].executor": "Run",
-    "Gradle.back-end [build].executor": "Run",
-    "Gradle.back-end [collectReachabilityMetadata].executor": "Run",
-    "JUnit.MountCtlTest.executor": "Run",
-    "JUnit.MountCtlTest.listTables.executor": "Run",
-    "JUnit.MountCtlTest.testListTablesEndpoint.executor": "Run",
-    "JUnit.MountCtlTest.testUpdateEndpoint.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.CodyAccountHistoryMigration": "true",
-    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
-    "RunOnceActivity.CodyHistoryLlmMigration": "true",
-    "RunOnceActivity.CodyProjectSettingsMigration": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.AulaJavaCollectionsProjectApplication.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/rodolfobrandao/Desktop/iDados/RoCourse/AulaJavaCollectionsProject/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AulaJavaCollectionsProjectApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImageSearchAndConvertToBase64.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModelAndDaoGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModelAndRepositoryGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModelGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MvcJpaGerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.rodolfobrandao.aulajavacollectionsproject.models.ModelGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AulaJavaCollectionsProject [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AulaJavaCollectionsProject [bootRun].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AulaJavaCollectionsProject [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AulaJavaCollectionsProject [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build back-end.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [bootJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [collectReachabilityMetadata].executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MountCtlTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MountCtlTest.listTables.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MountCtlTest.testListTablesEndpoint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MountCtlTest.testUpdateEndpoint.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AulaJavaCollectionsProjectApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rodolfobrandao/Desktop/iDados/RoCourse/AulaJavaCollectionsProject/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.rodolfobrandao.aulajavacollectionsproject.repositories.impl" />
@@ -205,7 +208,7 @@
       <recent name="com.rodolfobrandao.aulajavacollectionsproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.AulaJavaCollectionsProjectApplication">
+  <component name="RunManager" selected="Gradle.AulaJavaCollectionsProject [clean]">
     <configuration name="AdicionarFabricante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.AdicionarFabricante" />
       <module name="AulaJavaCollectionsProject.main" />
@@ -358,6 +361,7 @@
       <workItem from="1715819245816" duration="15750000" />
       <workItem from="1715861978978" duration="3171000" />
       <workItem from="1716026066175" duration="9235000" />
+      <workItem from="1716047405958" duration="85000" />
     </task>
     <servers />
   </component>

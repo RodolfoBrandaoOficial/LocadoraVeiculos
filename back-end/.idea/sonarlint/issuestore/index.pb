@@ -83,5 +83,3 @@ Zsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/Ca
 Tsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/base/Locacao.java,3/3/33d9480dc55c1edcb0718ccbe0bd4966f1b3babe
 Ç
 Rsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/base/Carro.java,b/b/bbae764980e1d55dbbe7be3c493e277603e78cb5
-ê
-`src/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/advice/UserGeneratorJSON.java,1/0/10cb4117eadbc2e3c75da005a2e613d4c0687c71

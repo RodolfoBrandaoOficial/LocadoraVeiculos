@@ -20,6 +20,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/v1/cliente")
+@CrossOrigin(origins = "*")
 public class ClienteCtl {
 
     private final ClienteService clienteService;
