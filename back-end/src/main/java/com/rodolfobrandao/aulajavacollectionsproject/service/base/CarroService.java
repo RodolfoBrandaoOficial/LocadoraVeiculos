@@ -1,11 +1,12 @@
 package com.rodolfobrandao.aulajavacollectionsproject.service.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Carro;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Component;
 import com.rodolfobrandao.aulajavacollectionsproject.repositories.impl.CrudRepository;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
@@ -50,7 +51,7 @@ public class CarroService implements CrudRepository<Carro, Integer> { // Mudanç
     }
 
     @Override
-    public List<Carro> findAll() {
+    public PaginatedResponse<Map<String, Object>> findAll() {
 
         return CrudRepository.super.findAll();
 

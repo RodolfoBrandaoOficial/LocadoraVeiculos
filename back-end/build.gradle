@@ -16,8 +16,26 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
+apply plugin: 'java'
 
+
+// Configurações do compilador Java
+compileJava {
+    options.compilerArgs += ["-parameters"] // Ativa a captura de nomes de parâmetros
+}
+dependencies {
+    implementation 'org.springframework.security:spring-security-oauth2-client'
+    implementation 'org.springframework.security:spring-security-oauth2-jose'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-authorization-server'
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-resource-server'
+    implementation 'org.mapstruct:mapstruct:1.5.5.Final'
+    annotationProcessor 'org.projectlombok:lombok:1.18.30'
+    annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.5.Final'
+    implementation group: 'commons-codec', name: 'commons-codec', version: '1.15'
+    implementation 'org.json:json:20210307'
+    implementation 'org.jsoup:jsoup:1.17.2'
     implementation 'com.auth0:java-jwt:4.4.0'
     implementation 'jakarta.validation:jakarta.validation-api:3.1.0-M2'
     implementation 'org.springframework.boot:spring-boot-starter-security'

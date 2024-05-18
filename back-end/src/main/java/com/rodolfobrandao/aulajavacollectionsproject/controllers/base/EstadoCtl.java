@@ -1,21 +1,22 @@
 package com.rodolfobrandao.aulajavacollectionsproject.controllers.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.service.base.EstadoService;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Estado;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
- *   
+ *
 
- *  @author @RodolfoBrandaoOficial.dev.br 
+ *  @author @RodolfoBrandaoOficial.dev.br
 
- *  https://github.com/RodolfoBrandaoOficial 
+ *  https://github.com/RodolfoBrandaoOficial
 
- *  
+ *
 
  * Controlador REST gerado automaticamente para a tabela estado
 
@@ -41,7 +42,7 @@ public class EstadoCtl {
     }
 
     @GetMapping("/list")
-    public List<Estado> list() {
+    public PaginatedResponse<Map<String, Object>> findAll() {
         return estadoService.findAll();
     }
 

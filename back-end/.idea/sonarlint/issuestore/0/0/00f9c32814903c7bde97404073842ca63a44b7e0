@@ -1,0 +1,18 @@
+
+e
+java:S6355
+"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8ö ù÷1
+R
+java:S1133"5Do not forget to remove this deprecated code someday.(Ÿ”¸Í8ø ù÷1
+E
+java:S1123"(Add the missing @deprecated Javadoc tag.(Ÿ”¸Í8ú ù÷1
+¥
+java:S1128"bRemove this unused import 'org.springframework.boot.autoconfigure.security.oauth2.client.servlet'.(¤®óÍ8ÃÓŸù÷1J$d21d3d92-98c9-4c38-83e7-60d653533292
+ª
+java:S1128"gRemove this unused import 'org.springframework.security.oauth2.client.registration.ClientRegistration'.(…¬ò8ÄÓŸù÷1J$6b3b76fc-399a-40e5-b224-be365fcc1ea8
+Ÿ
+java:S1128"\Remove this unused import 'org.springframework.security.oauth2.core.AuthorizationGrantType'.(£Úê°8ÆÓŸù÷1J$f7a8696f-1afd-402b-b389-d884aa4fb004
+¢
+java:S1128"`Remove this unused import 'org.springframework.security.oauth2.core.ClientAuthenticationMethod'.(ìŠ=8ÇÓŸù÷1J$8b8a0c7d-85e7-4781-8898-813bd8b1b1e6
+Ÿ
+java:S1128"\Remove this unused import 'org.springframework.security.oauth2.core.oidc.IdTokenClaimNames'.(ñæ¥8ÉÓŸù÷1J$74aab125-ae9e-47dd-be37-2d742c4cbfcc

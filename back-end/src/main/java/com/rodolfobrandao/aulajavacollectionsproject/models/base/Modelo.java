@@ -2,10 +2,10 @@ package com.rodolfobrandao.aulajavacollectionsproject.models.base;
 
 import java.util.Date;
 /**
- *   
- *  @author @RodolfoBrandaoOficial.dev.br 
- *  https://github.com/RodolfoBrandaoOficial 
- *  
+ *
+ *  @author @RodolfoBrandaoOficial.dev.br
+ *  https://github.com/RodolfoBrandaoOficial
+ *
  * Modelo gerado automaticamente para a tabela modelo
  */
 public class Modelo {
@@ -13,6 +13,8 @@ public class Modelo {
     private int id;
     private String nome;
     private int id_fabricante;
+
+    private String imgbase64;
 
     /**
      * Obtém o valor de id
@@ -62,4 +64,13 @@ public class Modelo {
         this.id_fabricante = id_fabricante;
     }
 
+
+
+    public String getImgbase64() {
+        return imgbase64;
+    }
+
+    public void setImgbase64(String imgbase64) {
+        this.imgbase64 = imgbase64;
+    }
 }

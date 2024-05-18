@@ -1,11 +1,12 @@
 package com.rodolfobrandao.aulajavacollectionsproject.controllers.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.service.base.ModeloService;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Modelo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
@@ -41,8 +42,7 @@ public class ModeloCtl {
     }
 
     @GetMapping("/list")
-    public List<Modelo> list() {
-
+    public PaginatedResponse<Map<String, Object>> findAll(){
         return modeloService.findAll();
     }
 

@@ -1,9 +1,0 @@
-
-c
-java:S1192 "HDefine a constant instead of duplicating this literal "/api/**" 4 times.(¿ÀÿØüÿÿÿÿ
-a
-java:S1192 "FDefine a constant instead of duplicating this literal "ADMIN" 4 times.(¿ÀÿØüÿÿÿÿ
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
-u
-java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(ÃîÑıÿÿÿÿ

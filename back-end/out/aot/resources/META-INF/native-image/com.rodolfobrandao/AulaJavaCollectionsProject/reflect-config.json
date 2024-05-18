@@ -739,6 +739,71 @@
     ]
   },
   {
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.FipeGratisAPI",
+    "queryAllPublicMethods": true,
+    "queryAllDeclaredMethods": true,
+    "allPublicMethods": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "getAnos",
+        "parameterTypes": [
+          "java.lang.String",
+          "int",
+          "int",
+          "int"
+        ]
+      },
+      {
+        "name": "getMarcas",
+        "parameterTypes": [
+          "java.lang.String",
+          "int"
+        ]
+      },
+      {
+        "name": "getModelos",
+        "parameterTypes": [
+          "java.lang.String",
+          "int",
+          "int"
+        ]
+      },
+      {
+        "name": "getPrecoMedio",
+        "parameterTypes": [
+          "java.lang.String",
+          "int",
+          "int",
+          "int",
+          "int"
+        ]
+      },
+      {
+        "name": "getTabelas",
+        "parameterTypes": [ ]
+      }
+    ],
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.FipeGratisAPI$$SpringCGLIB$$0",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
     "name": "com.rodolfobrandao.aulajavacollectionsproject.controllers.tools.SearchCtl",
     "queryAllPublicMethods": true,
     "queryAllDeclaredMethods": true,
@@ -1216,6 +1281,10 @@
         "parameterTypes": [ ]
       },
       {
+        "name": "getImgbase64",
+        "parameterTypes": [ ]
+      },
+      {
         "name": "getNome",
         "parameterTypes": [ ]
       },
@@ -1229,6 +1298,12 @@
         "name": "setId_fabricante",
         "parameterTypes": [
           "int"
+        ]
+      },
+      {
+        "name": "setImgbase64",
+        "parameterTypes": [
+          "java.lang.String"
         ]
       },
       {
@@ -1531,7 +1606,7 @@
     "allPublicMethods": true
   },
   {
-    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.AuthorizationService",
+    "name": "com.rodolfobrandao.aulajavacollectionsproject.service.auth.AuthorizationService",
     "queryAllPublicMethods": true,
     "queryAllDeclaredMethods": true,
     "fields": [
@@ -8317,7 +8392,7 @@
       {
         "name": "setDefaultProperties",
         "parameterTypes": [
-          "java.util.Map"
+          "java.util.Properties"
         ]
       },
       {

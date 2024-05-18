@@ -1,19 +1,20 @@
 package com.rodolfobrandao.aulajavacollectionsproject.controllers.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.service.base.CarroService;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Carro;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
  *
 
- *  @author @RodolfoBrandaoOficial.dev.br 
+ *  @author @RodolfoBrandaoOficial.dev.br
 
- *  https://github.com/RodolfoBrandaoOficial 
+ *  https://github.com/RodolfoBrandaoOficial
 
  *
 
@@ -41,10 +42,9 @@ public class CarroCtl {
     }
 
     @GetMapping("/list")
-    public List<Carro> list() {
+    public PaginatedResponse<Map<String, Object>> findAll() {
         return carroService.findAll();
     }
-
     @GetMapping("/{id}")
     public Carro findById(@PathVariable("id") Integer id) { // Mudança no tipo do parâmetro de Long para Integer
         return carroService.findById(id);

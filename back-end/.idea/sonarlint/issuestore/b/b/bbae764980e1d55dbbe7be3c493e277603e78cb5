@@ -1,11 +1,11 @@
 
-	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ8ΟΜόρ1J$3063fb18-ae44-4248-89be-80cb22609083
-“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦƒΑ³8ΡΜόρ1J$23389df3-5969-4c45-aeec-d53a53188bf9
-	java:S116"XRename this field "id_fabricante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π‘Άω8ΥΜόρ1J$cb9ac621-e481-413a-b5e7-7e8661f25fc4
-›	java:S116"TRename this field "id_modelo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Φ―ε›ÿÿÿÿÿ8ΦΜόρ1J$ce2ebca1-0329-4995-bd75-502d24d003fd
-	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έ΅μ{8ΪΜόρ1J$c522bb78-88ed-4eaa-893b-d347292e7f54
-•	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ8ΫΜόρ1J$2c8867f4-4d3b-4dbf-8388-4173d815cc42
-	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ†ς8έΜόρ1J$05fca2e8-ca99-4c1e-8155-58befe0dd8cf
-	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦƒΑ³8ήΜόρ1J$1e6f43f7-bb7e-49b7-a11d-8970a9aafd84
-n
-java:S1128"+Remove this unused import 'java.util.Date'.(Έ…Όό8αΜόρ1J$3952bec7-cbd4-44be-9b6e-87f3faafed06
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦƒΑ³
+m	java:S116"XRename this field "id_fabricante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π‘Άω
+n	java:S116"TRename this field "id_modelo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Φ―ε›ÿÿÿÿÿ
+b	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έ΅μ{
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ηναόÿÿÿÿ
+c	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ†ς
+c	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦƒΑ³
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(Έ…Όό

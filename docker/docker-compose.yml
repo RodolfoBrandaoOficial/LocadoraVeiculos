@@ -1,13 +1,13 @@
-version: '3'
+version: "3"
 services:
   postgres:
     build:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "5432:5432"  # Mapeamento da porta do contêiner PostgreSQL para a máquina host
+      - "5432:5432" # Mapeamento da porta do contêiner PostgreSQL para a máquina host
     volumes:
-      - postgres_data:/var/lib/postgresql/data  # Volume para persistir os dados do PostgreSQL
+      - postgres_data:/var/lib/postgresql/data # Volume para persistir os dados do PostgreSQL
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=senha_vrcursojava
@@ -15,14 +15,14 @@ services:
     container_name: projeto-postgres
 
   springboot:
-    image: openjdk:latest  # Imagem base para o Spring Boot
+    image: openjdk:latest # Imagem base para o Spring Boot
     ports:
-      - "8081:8080"  # Mapeamento da porta 8080 do contêiner Spring Boot para a máquina host
+      - "8080:8080" # Mapeamento da porta 8080 do contêiner Spring Boot para a máquina host
     volumes:
-      - ./locadoraveiculosjava.jar:/app/locadoraveiculosjava.jar  # Mapeamento do JAR Spring Boot para dentro do contêiner
+      - ./locadoraveiculosjava.jar:/app/locadoraveiculosjava.jar # Mapeamento do JAR Spring Boot para dentro do contêiner
     command: ["java", "-jar", "/app/locadoraveiculosjava.jar"]
     depends_on:
-      - postgres  # Garanta que o contêiner PostgreSQL esteja pronto antes de iniciar o Spring Boot
+      - postgres # Garanta que o contêiner PostgreSQL esteja pronto antes de iniciar o Spring Boot
     container_name: projeto-springboot
 
 volumes:

@@ -1,19 +1,20 @@
 package com.rodolfobrandao.aulajavacollectionsproject.controllers.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.service.base.ContatoService;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Contato;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
  *
 
- *  @author @RodolfoBrandaoOficial.dev.br 
+ *  @author @RodolfoBrandaoOficial.dev.br
 
- *  https://github.com/RodolfoBrandaoOficial 
+ *  https://github.com/RodolfoBrandaoOficial
 
  *
 
@@ -41,7 +42,7 @@ public class ContatoCtl {
     }
 
     @GetMapping("/list")
-    public List<Contato> list() {
+    public PaginatedResponse<Map<String, Object>> findAll() {
         return contatoService.findAll();
     }
 

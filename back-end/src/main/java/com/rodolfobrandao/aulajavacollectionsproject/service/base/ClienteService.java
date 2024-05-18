@@ -1,21 +1,22 @@
 package com.rodolfobrandao.aulajavacollectionsproject.service.base;
 
+import com.rodolfobrandao.aulajavacollectionsproject.models.advice.PaginatedResponse;
 import com.rodolfobrandao.aulajavacollectionsproject.models.base.Cliente;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Component;
 import com.rodolfobrandao.aulajavacollectionsproject.repositories.impl.CrudRepository;
 
-import java.util.List;
+import java.util.Map;
 
 /**
 
- *   
+ *
 
- *  @author @RodolfoBrandaoOficial.dev.br 
+ *  @author @RodolfoBrandaoOficial.dev.br
 
- *  https://github.com/RodolfoBrandaoOficial 
+ *  https://github.com/RodolfoBrandaoOficial
 
- *  
+ *
 
  * DAO gerado automaticamente para a tabela cliente
 
@@ -50,7 +51,7 @@ public class ClienteService implements CrudRepository<Cliente, Long> {
     }
 
     @Override
-    public List<Cliente> findAll() {
+    public PaginatedResponse<Map<String, Object>> findAll() {
 
         return CrudRepository.super.findAll();
 

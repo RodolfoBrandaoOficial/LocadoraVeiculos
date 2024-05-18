@@ -1,6 +1,6 @@
 package com.rodolfobrandao.aulajavacollectionsproject.models.user;
 
-import com.rodolfobrandao.aulajavacollectionsproject.config.TokenService;
+import com.rodolfobrandao.aulajavacollectionsproject.config.auth.TokenService;
 import com.rodolfobrandao.aulajavacollectionsproject.repositories.impl.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
