@@ -195,7 +195,7 @@
       <recent name="com.rodolfobrandao.aulajavacollectionsproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.back-end [build]">
+  <component name="RunManager" selected="Gradle.AulaJavaCollectionsProject [clean]">
     <configuration name="AdicionarFabricante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.AdicionarFabricante" />
       <module name="AulaJavaCollectionsProject.main" />
@@ -289,8 +289,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.back-end [build]" />
         <item itemvalue="Gradle.AulaJavaCollectionsProject [clean]" />
+        <item itemvalue="Gradle.back-end [build]" />
         <item itemvalue="Application.BaixarImagem" />
         <item itemvalue="Application.ImageSearchAndConvertToBase64" />
         <item itemvalue="Application.AdicionarFabricante" />
