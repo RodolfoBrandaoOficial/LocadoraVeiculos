@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fb39b-f99a-4dc3-a418-21a97e9f5ed8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_clientes_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_clientes_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +350,7 @@
       <workItem from="1715819245816" duration="15750000" />
       <workItem from="1715861978978" duration="3171000" />
       <workItem from="1716026066175" duration="9235000" />
-      <workItem from="1716047405958" duration="691000" />
+      <workItem from="1716047405958" duration="814000" />
     </task>
     <servers />
   </component>
