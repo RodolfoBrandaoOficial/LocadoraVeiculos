@@ -8,21 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fb39b-f99a-4dc3-a418-21a97e9f5ed8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10cb4117eadbc2e3c75da005a2e613d4c0687c71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/0/10cb4117eadbc2e3c75da005a2e613d4c0687c71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClienteCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClienteCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClientetelefoneCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ClientetelefoneCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ContatoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ContatoCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/EstadoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/EstadoCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/LocacaoCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/LocacaoCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ModeloCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/ModeloCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/MunicipioCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/MunicipioCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoraCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoraCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoratelefoneCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/SeguradoratelefoneCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_veiculos_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_veiculos_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_clientes_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/lib/screens/pesquisar_clientes_page.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +347,7 @@
       <workItem from="1715819245816" duration="15750000" />
       <workItem from="1715861978978" duration="3171000" />
       <workItem from="1716026066175" duration="9235000" />
-      <workItem from="1716047405958" duration="85000" />
+      <workItem from="1716047405958" duration="691000" />
     </task>
     <servers />
   </component>

@@ -96,8 +96,9 @@ class _PesquisarClientesPageState extends State<PesquisarClientesPage> {
 
     if (response.statusCode == 200) {
       try {
-        List<dynamic> data = jsonDecode(response.body);
-        return data.map((json) => VeiculosClientes.fromJson(json)).toList();
+        final Map<String, dynamic> JsonReponse = jsonDecode(response.body);
+        List<dynamic> resgistros = JsonReponse['registros'];
+        return resgistros.map((json) => VeiculosClientes.fromJson(json)).toList();
       } catch (e) {
         throw Exception('Erro ao decodificar JSON: $e');
       }
