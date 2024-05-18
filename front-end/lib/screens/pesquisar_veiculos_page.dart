@@ -204,8 +204,9 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
 
     if (response.statusCode == 200) {
       try {
-        List<dynamic> data = jsonDecode(response.body);
-        return data.map((json) => Veiculo.fromJson(json)).toList();
+        final Map<String, dynamic> jsonResponse = jsonDecode(response.body);
+        List<dynamic> registros = jsonResponse['registros'];
+        return registros.map((json) => Veiculo.fromJson(json)).toList();
       } catch (e) {
         throw Exception('Erro ao decodificar JSON: $e');
       }
@@ -214,9 +215,9 @@ class _PesquisarVeiculosPageState extends State<PesquisarVeiculosPage> {
         Navigator.pushNamed(context, '/login');
       }
       throw Exception('Falha ao carregar veículos: ${response.statusCode}');
-
     }
   }
+
 
   List<Veiculo> _filterVeiculos(List<Veiculo> veiculos, String searchText) {
     return veiculos.where((veiculo) {
