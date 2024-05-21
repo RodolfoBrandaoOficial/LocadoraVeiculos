@@ -29,8 +29,6 @@ Xsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/user/Registe
 ]src/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/user/LoginResponseDTO.java,a/1/a16246cf263caa48989c45abb872e7cb3bba05b5
 ã
 [src/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/user/SecurityFilter.java,a/5/a501ef5a92b40324d4c5459acac4b55772feaae5
-ñ
-fsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/config/auth/oauth2/OAuth2ClientConfig.java,0/0/00f9c32814903c7bde97404073842ca63a44b7e0
 å
 \src/main/java/com/rodolfobrandao/aulajavacollectionsproject/service/base/LocacaoService.java,2/2/22bcaba078a40f948af53651275cdff437d01ce5
 å
@@ -83,3 +81,13 @@ Zsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/base/Ca
 Tsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/base/Locacao.java,3/3/33d9480dc55c1edcb0718ccbe0bd4966f1b3babe
 Ç
 Rsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/base/Carro.java,b/b/bbae764980e1d55dbbe7be3c493e277603e78cb5
+d
+4src/test/java/TestUn5/service/PersonServiceTest.java,a/7/a7fe2785135516d2f9de77a4a7af5c036c66b870
+ö
+jsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/consultas/AdicionarFabricante.java,3/3/33560ad8b7ff30672b5be0f2e8505c80679dc47f
+î
+dsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/utilitarios/TestUn5/dominion/Person.java,d/f/dffe0a59b1f36bdb9d3c3dd90de3460b8e911a15
+ö
+jsrc/main/java/com/rodolfobrandao/aulajavacollectionsproject/utilitarios/TestUn5/service/PersonService.java,1/5/1556d4e3737592ea72df0a105c3a0ff094f75411
+ç
+]src/test/java/com/rodolfobrandao/aulajavacollectionsproject/utility/ServiceTestGenerator.java,1/a/1abbb0037fde2b133beca510a083e4cc0f035e2a

@@ -16,13 +16,6 @@ repositories {
     mavenCentral()
 }
 
-apply plugin: 'java'
-
-
-// Configurações do compilador Java
-compileJava {
-    options.compilerArgs += ["-parameters"] // Ativa a captura de nomes de parâmetros
-}
 dependencies {
     implementation 'org.springframework.security:spring-security-oauth2-client'
     implementation 'org.springframework.security:spring-security-oauth2-jose'
@@ -33,7 +26,7 @@ dependencies {
     implementation 'org.mapstruct:mapstruct:1.5.5.Final'
     annotationProcessor 'org.projectlombok:lombok:1.18.30'
     annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.5.Final'
-    implementation group: 'commons-codec', name: 'commons-codec', version: '1.15'
+    implementation 'commons-codec:commons-codec:1.15'
     implementation 'org.json:json:20210307'
     implementation 'org.jsoup:jsoup:1.17.2'
     implementation 'com.auth0:java-jwt:4.4.0'
@@ -41,22 +34,33 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-security'
     implementation 'org.springframework.boot:spring-boot-starter-jdbc'
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-    implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.boot:spring-boot-devtools'
     implementation 'org.projectlombok:lombok:1.18.30'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     runtimeOnly 'org.postgresql:postgresql'
     implementation 'javax.persistence:javax.persistence-api:2.2'
-
     runtimeOnly 'com.h2database:h2'
+    implementation 'junit:junit:4.13.2'
+    implementation 'org.junit.jupiter:junit-jupiter-api:5.11.0-M2'
+    implementation 'org.junit.jupiter:junit-jupiter-engine:5.11.0-M2'
+    testImplementation 'org.mockito:mockito-core:5.12.0'
+    testImplementation 'org.instancio:instancio-junit:4.6.0'
+    testImplementation 'org.instancio:instancio-core:4.6.0'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'org.springframework.security:spring-security-test'
     implementation 'io.github.cdimascio:java-dotenv:5.2.2'
-    implementation 'org.springframework.boot:spring-boot-starter-jdbc:3.2.3'
-    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+}
 
+configurations.all {
+ //   exclude group: 'org.json', module: 'json'
+    exclude group: 'com.vaadin.external.google', module: 'android-json'
 }
 
 tasks.named('test') {
     useJUnitPlatform()
+    jvmArgs += ["-Dspring.test.aot.enabled=false"]
+}
+
+compileJava {
+    options.compilerArgs += ["-parameters"]
 }

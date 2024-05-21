@@ -1,0 +1,12 @@
+
+^
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133"5Do not forget to remove this deprecated code someday.(À¤­ãúÿÿÿÿ
+C
+java:S1123"(Add the missing @deprecated Javadoc tag.(À¤­ãúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‘¥¢Äüÿÿÿÿ
+\
+java:S1075*"ARefactor your code to get this URI from a customizable parameter.(’»€´ıÿÿÿÿ
+E	java:S1063"+Replace this use of System.out by a logger.(âã¤ÿÿÿÿÿ

@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ç¡Ò8‹¬éºù1J$8910e593-a086-46fb-a56a-9b982d5b554e
+e
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8ˆ¯¼ù1
+R
+java:S1133"5Do not forget to remove this deprecated code someday.(¡Àş²8Š¯¼ù1
+E
+java:S1123"(Add the missing @deprecated Javadoc tag.(¡Àş²8‹¯¼ù1

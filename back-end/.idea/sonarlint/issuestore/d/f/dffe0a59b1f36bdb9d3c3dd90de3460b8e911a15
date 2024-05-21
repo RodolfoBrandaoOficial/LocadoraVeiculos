@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉµÙøÿÿÿÿ8öÇ¼ù1
+e
+java:S6355	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8ùÇ¼ù1
+R
+java:S1133
+"5Do not forget to remove this deprecated code someday.(¤ŒÊ8üÇ¼ù1
+E
+java:S1123
+"(Add the missing @deprecated Javadoc tag.(¤ŒÊ8şÇ¼ù1
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8‚È¼ù1

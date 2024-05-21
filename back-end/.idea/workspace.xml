@@ -8,10 +8,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fb39b-f99a-4dc3-a418-21a97e9f5ed8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../front-end/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/utilitarios/TestUn5/dominion/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/utilitarios/TestUn5/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/utilitarios/TestUn5/teste/PersonServiceTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestUn5/service/PersonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rodolfobrandao/aulajavacollectionsproject/utility/ServiceTestGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/bkimg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00f9c32814903c7bde97404073842ca63a44b7e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46c5ec705b5de749df1545ceb2366748d02b4ea3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46c5ec705b5de749df1545ceb2366748d02b4ea3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9af46a51aa4f685a5bd2c783d899fa565d84edf6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9af46a51aa4f685a5bd2c783d899fa565d84edf6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/0/00f9c32814903c7bde97404073842ca63a44b7e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/config/auth/oauth2/OAuth2ClientConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/models/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/rodolfobrandao/aulajavacollectionsproject/AulaJavaCollectionsProjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/MountCtlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Assets.xcassets/AppIcon-bk.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +145,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="com.haulmont.jpb.JpaEntity" />
-        <option value="JUnit5 Test Class" />
         <option value="Record" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -131,10 +210,37 @@
     &quot;Gradle.AulaJavaCollectionsProject [bootRun].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.AulaJavaCollectionsProject [build].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.AulaJavaCollectionsProject [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthorizationServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthorizationServiceTest.loadUserByUsernameTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.Build back-end.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.findAllTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.findByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.getConnectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.saveTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CarroServiceTest.updateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ClienteServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ContatoServiceTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.EstadoServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FabricanteServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ModeloServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PersonServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PersonServiceTest.isAdult.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PersonServiceTest.isAdult_ReturnFalseWhenAgeIIsLowerThan18.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PersonServiceTest.isAdult_ReturnFalseWhenAgeIsLowerThan18.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SearchServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SeguradoraServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Tests in 'com.rodolfobrandao.aulajavacollectionsproject.config'.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.UserRepositoryTest.findByLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.UserRepositoryTest.findByLoginSucess.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [:PersonServiceTeste.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [:ServiceTestGenerator.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [:TestGenerator.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [:TestGeneratorMain.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.back-end [bootJar].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.back-end [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.back-end [clean].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.back-end [collectReachabilityMetadata].executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MountCtlTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MountCtlTest.listTables.executor&quot;: &quot;Run&quot;,
@@ -188,6 +294,10 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="TestUn5.service" />
+      <recent name="com.rodolfobrandao.aulajavacollectionsproject.repositories.impl" />
+      <recent name="com.rodolfobrandao.aulajavacollectionsproject.service.base" />
+      <recent name="com.rodolfobrandao.aulajavacollectionsproject.service.auth" />
       <recent name="com.rodolfobrandao.aulajavacollectionsproject.controllers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -197,47 +307,104 @@
       <recent name="com.rodolfobrandao.aulajavacollectionsproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AulaJavaCollectionsProject [clean]">
-    <configuration name="AdicionarFabricante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.AdicionarFabricante" />
-      <module name="AulaJavaCollectionsProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.back-end [clean]">
+    <configuration name="CarroServiceTest.findAllTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.rodolfobrandao.aulajavacollectionsproject.service.base.CarroServiceTest.findAllTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
     </configuration>
-    <configuration name="BaixarImagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.BaixarImagem" />
-      <module name="AulaJavaCollectionsProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="PersonServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestUn5.service.PersonServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
     </configuration>
-    <configuration name="ImageSearchAndConvertToBase64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rodolfobrandao.aulajavacollectionsproject.ImageSearchAndConvertToBase64" />
-      <module name="AulaJavaCollectionsProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rodolfobrandao.aulajavacollectionsproject.controllers.consultas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="PersonServiceTest.isAdult_ReturnFalseWhenAgeIIsLowerThan18" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestUn5.service.PersonServiceTest.isAdult_ReturnFalseWhenAgeIIsLowerThan18&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
     </configuration>
-    <configuration name="AulaJavaCollectionsProject [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PersonServiceTest.isAdult_ReturnFalseWhenAgeIsLowerThan18" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestUn5.service.PersonServiceTest.isAdult_ReturnFalseWhenAgeIsLowerThan18&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="back-end [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -259,28 +426,6 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="back-end [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
     <configuration name="AulaJavaCollectionsProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="AulaJavaCollectionsProject.main" />
@@ -291,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.AulaJavaCollectionsProject [clean]" />
-        <item itemvalue="Gradle.back-end [build]" />
-        <item itemvalue="Application.BaixarImagem" />
-        <item itemvalue="Application.ImageSearchAndConvertToBase64" />
-        <item itemvalue="Application.AdicionarFabricante" />
+        <item itemvalue="Gradle.back-end [clean]" />
+        <item itemvalue="Gradle.PersonServiceTest.isAdult_ReturnFalseWhenAgeIsLowerThan18" />
+        <item itemvalue="Gradle.PersonServiceTest.isAdult_ReturnFalseWhenAgeIIsLowerThan18" />
+        <item itemvalue="Gradle.PersonServiceTest" />
+        <item itemvalue="Gradle.CarroServiceTest.findAllTest" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +495,9 @@
       <workItem from="1715819245816" duration="15750000" />
       <workItem from="1715861978978" duration="3171000" />
       <workItem from="1716026066175" duration="9235000" />
-      <workItem from="1716047405958" duration="814000" />
+      <workItem from="1716047405958" duration="21614000" />
+      <workItem from="1716258328046" duration="60000" />
+      <workItem from="1716258403941" duration="16000" />
     </task>
     <servers />
   </component>
@@ -367,20 +514,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/MountCtlTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/MountCtlTest.java</url>
-          <line>25</line>
-          <properties class="com.rodolfobrandao.aulajavacollectionsproject.controllers.MountCtlTest" method="testListTablesEndpoint">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/rodolfobrandao/aulajavacollectionsproject/controllers/automation/MountCtl.java</url>
           <line>38</line>
@@ -392,5 +525,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AulaJavaCollectionsProject$CarroServiceTest_findAllTest.ic" NAME="CarroServiceTest.findAllTest Coverage Results" MODIFIED="1716213527874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
