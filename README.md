@@ -7,7 +7,7 @@ Bem-vindo à Locadora de Veículos! Este é um projeto open source desenvolvido 
 
 A Locadora de Veículos é uma aplicação web para gerenciamento de uma frota de veículos. Ela inclui funcionalidades para cadastrar novos veículos, registrar aluguéis, calcular tarifas, gerenciar clientes e muito mais. O projeto foi desenvolvido utilizando o framework Spring Boot devido à sua facilidade de configuração e robustez para desenvolvimento de aplicações web.
 
-<div align="center"> <img src="https://github.com/RodolfoBrandaoOficial/LocadoraVeiculos/blob/main/loginDisplay.png?raw=true" width="700px" /> </div>
+<div align="center"> <img src="https://github.com/RodolfoBrandaoOficial/LocadoraVeiculos/blob/main/loginDisplay.png?raw=true" width="300px" /> </div>
 
 
 ## 💻 Tecnologias Utilizadas
